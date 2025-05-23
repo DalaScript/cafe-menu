@@ -14,6 +14,8 @@ A cozy, aesthetic café menu built using pure HTML and CSS. Designed as part of 
   - [📌 Features](#-features)
 - [🧠 My process](#-my-process)
   - [🛠️ Built with](#️-built-with)
+  - [🎓 What I learned](#-what-i-learned)
+  - [🔙 Previous Project](#-previous-project)
   - [🔜 Next Project](#-next-project)
 - [👤 Author](#-author)
   - [🌐 Connect with Me](#-connect-with-me)
@@ -25,7 +27,7 @@ A cozy, aesthetic café menu built using pure HTML and CSS. Designed as part of 
 
 ### 📸 Screenshot
 
-![screenshot of webpage](./assets/screenshot.jpg)
+![screenshot of the project's webpage](./assets/screenshot.jpg)
 
 ### 🔗 Links
 
@@ -48,9 +50,23 @@ A cozy, aesthetic café menu built using pure HTML and CSS. Designed as part of 
  - HTML5
  - CSS3
 
+### 🎓 What I Learned
+
+  > 🚀 For me, this project was more about **practice** and gaining additional **experience**,  
+  > rather than learning something entirely new.  
+  >  
+  > 👨‍💻 Since I’m not a beginner and already familiar with these technologies,  
+  > I approached it with confidence — and still, I truly **enjoyed working on it**.  
+  >  
+  > 🎯 Overall, I consider this a very **valuable and enjoyable experience**.
+
+### 🔙 Previous Project
+
+ - Cat Photos App | *[Project 1/20]* → [View Repository](https://github.com/DalaScript/cat-photos-app)
+
 ### 🔜 Next Project
 
- - Colored Markers → [View Repository](https://github.com/DalaScript/colored-markers)
+ - Colored Markers | *[Project 3/20]* → [View Repository](https://github.com/DalaScript/colored-markers)
 
 ---
 
